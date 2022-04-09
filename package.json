@@ -33,7 +33,7 @@
     "mdbreact": "^4.25.4",
     "metismenujs": "^1.1.0",
     "mkdirp": "^1.0.3",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-timezone": "^0.5.28",
     "node-sass": "^4.13.1",
     "nouislider-react": "^3.3.7",
@@ -105,6 +105,6 @@
     ]
   },
   "resolutions": {
-    "moment": "2.24.0"
+    "moment": "2.29.2"
   }
 }
